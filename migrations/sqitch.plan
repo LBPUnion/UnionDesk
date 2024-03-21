@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=uniondesk
+%uri=https://github.com/sqitchers/sqitch-intro/
+
+initial-migration 2024-03-18T23:38:15Z Henry Asbridge <henry@Henrys-Air.lan> # Initial Migration
+users-and-permissions 2024-03-21T21:47:57Z System Administrator <root@Henrys-MacBook-Air.local> # Add users and permissions
